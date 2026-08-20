@@ -1,5 +1,6 @@
 # odin-recipes
   This is a simple recipes website project from The Odin Project.
-  Add navbar HTML
+
+  I am doing this project to improve my HTML skills such as linking, heading and working on Git and GitHub
   
 
